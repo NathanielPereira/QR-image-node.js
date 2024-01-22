@@ -1,1 +1,2 @@
 # QR-image-node.js
+##O objetivo é permitir que os usuários adicionem links de sites ao programa e, em seguida, o programa gera automaticamente os códigos QR correspondentes para esses links. Isso pode ser útil para compartilhar links de forma rápida e conveniente, especialmente em materiais impressos ou online. Certifique-se de incluir instruções claras sobre como usar o programa e quaisquer outras informações relevantes para os usuários que possam estar interessados em contribuir ou utilizar o projeto
